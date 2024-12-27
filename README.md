@@ -50,4 +50,4 @@ Power BI: The primary tool used to design and develop the Sales Dashboard. It en
 
 
 
-![Power BI Dashboard GIF](https://drive.google.com/file/d/1dknVJiFE8KNFGMri49-XxDiielsCzn7b/view?usp=sharing.gif.gif)
+![Power BI Dashboard GIF](https://github.com/Nilesh098/Nilesh098-Nilesh098-Store-Market-Analysis-Profit-Transactions-and-Customer-Insights/blob/main/2024-12-2717-03-52-ezgif.com-optimize.gif)
