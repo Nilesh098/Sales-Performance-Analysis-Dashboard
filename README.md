@@ -16,7 +16,7 @@ This Power BI project analyzes sales data to provide insights into key performan
 - Data source
 - Screenshots
 - Technology used
-- Colour Used for visualization
+
 
 ## Overview
 
